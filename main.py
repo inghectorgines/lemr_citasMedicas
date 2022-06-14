@@ -1,3 +1,6 @@
+#Print de datos
+print("Alumno:Luis Enrique Montiel Rojas")
+
 """
 Proyecto python + MySQL:
 1.1. Crear tu sistema de Cita Médica (en la clase main, sin interfaz).
