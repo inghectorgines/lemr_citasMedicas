@@ -1,5 +1,5 @@
 #Print de datos
-print("Alumno:Luis Enrique Montiel Rojas")
+print("Alumno: Luis Enrique Montiel Rojas")
 
 """
 Proyecto python + MySQL:
